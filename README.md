@@ -1,7 +1,5 @@
 # hello-world
-Hola a todos mi nombre es Carlo Alejandro Salas Avila y tengo 18 años(Muy pronto 19 :D ). 
-Estudio la carrera en Ingenieria en sistemas computacionales en UNIDEP.
+My name is Carlo A. Salas. I'm 19 years old. I'm studyng the carrear of Engeener Software.
+This is my first README in GitHUB... 
 
-Este es mi primera prueba usando GitHUB.
-
-
+:)
